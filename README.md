@@ -40,7 +40,9 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 - Fetching Data
 
-### Chapter 8
+### Chapter 8 (정적, 동적 렌더링)
+
+- Static and Dynamic Rendering
 
 ### Chapter 9
 
