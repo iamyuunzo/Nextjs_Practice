@@ -13,50 +13,52 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 ### Chapter 1
 
-- Getting Started
+- Getting Started<br>
 
 ### Chapter 2
 
-- CSS Styling
+- CSS Styling<br>
 
 ### Chapter 3 (최적화)
 
 - 3.1 Optimizing Fonts (commit -m : Ch3.1 Font Optimization)
-- 3.2 Optimizing Images (commit -m : Ch3.2 Images Optimization)
+- 3.2 Optimizing Images (commit -m : Ch3.2 Images Optimization)<br>
 
 ### Chapter 4 (레이아웃, 페이지 구성)
 
-- Creating Layouts and Pages
+- Creating Layouts and Pages<br>
 
 ### Chapter 5 (네비게이팅)
 
-- Navigating Between Pages
+- Navigating Between Pages<br>
 
 ### Chapter 6 (데이터베이스)
 
-- Setting Up Your Database
+- Setting Up Your Database<br>
 
 ### Chapter 7 (데이터 가져오기)
 
-- Fetching Data
+- Fetching Data<br>
 
 ### Chapter 8 (정적, 동적 렌더링)
 
-- Static and Dynamic Rendering
+- Static and Dynamic Rendering<br>
 
 ### Chapter 9 (스트리밍)
 
-- Streaming
+- Streaming<br>
 
 ### Chapter 10 (부분 사전 렌더링)
 
-- Partial Prerendering (PPR)
+- Partial Prerendering (PPR)<br>
 
 ### Chapter 11 (검색 및 페이지네이션)
 
-- Adding Search and Pagination
+- Adding Search and Pagination<br>
 
-### Chapter 12
+### Chapter 12 (데이터 변형)
+
+- Mutating Data<br>
 
 ### Chapter 13
 
