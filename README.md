@@ -26,6 +26,8 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 ### Chapter 4
 
+- Creating Layouts and Pages
+
 ### Chapter 5
 
 ### Chapter 6
