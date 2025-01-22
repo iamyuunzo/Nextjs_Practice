@@ -32,7 +32,9 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 - Navigating Between Pages
 
-### Chapter 6
+### Chapter 6 (데이터베이스)
+
+- Setting Up Your Database
 
 ### Chapter 7
 
