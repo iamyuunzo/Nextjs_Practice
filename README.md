@@ -22,7 +22,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 ### Chapter 3 (최적화)
 
 - 3.1 Optimizing Fonts (commit -m : Ch3.1 Font Optimization)
-- 3.2 Optimizing Images 
+- 3.2 Optimizing Images (commit -m : Ch3.2 Images Optimization)
 
 ### Chapter 4
 
