@@ -48,7 +48,9 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 - Streaming
 
-### Chapter 10
+### Chapter 10 (부분 사전 렌더링)
+
+- Partial Prerendering (PPR)
 
 ### Chapter 11
 
