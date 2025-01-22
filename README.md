@@ -64,7 +64,9 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 - Handling Errors<br><br>
 
-### Chapter 14
+### Chapter 14 (접근성 개선 ⭐️)
+
+- Improving Accessibility<br><br>
 
 ### Chapter 15
 
