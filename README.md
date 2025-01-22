@@ -44,7 +44,9 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 - Static and Dynamic Rendering
 
-### Chapter 9
+### Chapter 9 (스트리밍)
+
+- Streaming
 
 ### Chapter 10
 
