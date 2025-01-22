@@ -19,10 +19,10 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 - CSS Styling
 
-### Chapter 3
+### Chapter 3 (최적화)
 
-- 3.1 Optimizing Fonts (commit -m : 1. Font Optimization, 폰트 최적화)
-- 3.2 Optimizing Images (commit -m : 2. Images Optimization, 이미지 최적화)
+- 3.1 Optimizing Fonts (commit -m : Ch3.1 Font Optimization)
+- 3.2 Optimizing Images 
 
 ### Chapter 4
 
