@@ -52,7 +52,9 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 - Partial Prerendering (PPR)
 
-### Chapter 11
+### Chapter 11 (검색 및 페이지네이션)
+
+- Adding Search and Pagination
 
 ### Chapter 12
 
