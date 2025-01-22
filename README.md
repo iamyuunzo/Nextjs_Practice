@@ -24,11 +24,13 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - 3.1 Optimizing Fonts (commit -m : Ch3.1 Font Optimization)
 - 3.2 Optimizing Images (commit -m : Ch3.2 Images Optimization)
 
-### Chapter 4
+### Chapter 4 (레이아웃, 페이지 구성)
 
 - Creating Layouts and Pages
 
-### Chapter 5
+### Chapter 5 (네비게이팅)
+
+- Navigating Between Pages
 
 ### Chapter 6
 
