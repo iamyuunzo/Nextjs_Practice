@@ -36,7 +36,9 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 - Setting Up Your Database
 
-### Chapter 7
+### Chapter 7 (데이터 가져오기)
+
+- Fetching Data
 
 ### Chapter 8
 
